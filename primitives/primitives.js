@@ -546,5 +546,4 @@ var Primitives = {
             activeEdgeList.sort(xComparator);
         }
     }
-
 };
